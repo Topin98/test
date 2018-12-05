@@ -592,6 +592,6 @@ h5 {
 .nivo-controlNav a.active {	background-position:left top; margin-top:-1px;}
 
 a{
-    color: red !important;
+    color: blue !important;
     font-family: 'Courier New', Courier, monospace !important;
 }
