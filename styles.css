@@ -590,3 +590,8 @@ h5 {
 .nivo-controlNav { bottom:-20px; position:absolute; right:0;}
 .nivo-controlNav a { float:left; width:14px; height:14px; display:block; position:relative; z-index:99;	cursor:pointer; text-indent:-9999%; background:url(images/scroll_small.png) no-repeat scroll right top;}
 .nivo-controlNav a.active {	background-position:left top; margin-top:-1px;}
+
+a{
+    color: red !important;
+    font-family: 'Courier New', Courier, monospace !important;
+}
